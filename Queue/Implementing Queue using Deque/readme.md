@@ -13,9 +13,12 @@ This project demonstrates a manual implementation of a **Generic Queue** in Java
 3. `peek()`: Retrieves, but does not remove, the head.
 4. `isEmpty()`: Returns true if the queue is empty.
 
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/93255832-1614-4012-a8bd-b17825bed834" />
 
-Metric,Complexity,Description
-|--|--|--|
+
+## Metric,Complexity,Description
+| Metric | Complexity | Description |
+| --- | --- | --- |
 |**Add (Enqueue)**|O(1)|Adding to the tail of a LinkedList is a constant time operation.|
 |**Remove (Dequeue)**|O(1)|Removing from the head is also constant time.|
 |**Peek**|O(1)|Looking at the first element is immediate.|

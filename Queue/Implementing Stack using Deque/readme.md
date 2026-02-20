@@ -11,7 +11,10 @@ This project demonstrates how to build a functional **Stack** data structure usi
 
 
 ## Metric,Complexity,Description
-|Push|O(1)|Adding to the end of a LinkedList or ArrayDeque is a constant time operation.|
-Pop,O(1),Removing from the end is also constant time.
-Peek,O(1),Accessing the last element requires no traversal.
-Space Complexity,O(N),The stack stores N elements in memory.
+
+| Metric | Complexity | Description |
+| --- | --- | --- |
+|**Push**|O(1)|Adding to the end of a LinkedList or ArrayDeque is a constant time operation.|
+|**Pop**|O(1)|Removing from the end is also constant time|
+|**Peek**|O(1)|Accessing the last element requires no traversal|
+|**Space Complexity**|O(N)|The stack stores N elements in memory|

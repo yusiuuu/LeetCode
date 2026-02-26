@@ -12,3 +12,4 @@ The Indian coin system is **canonical**. This means that for any amount, the gre
 2. Sort them in descending order.
 3. Iteratively subtract the largest possible denomination until the amount is zero.
 
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/cddaefec-341b-4c34-bd2b-4502ecc1ee0d" />
